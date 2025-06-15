@@ -5,6 +5,9 @@
 **Privacy-preserving identity verification for IntMax deposits and withdrawals using zero-knowledge proofs.**
 
 IntMax Identity main use case: users scan their passport and generate a ZK proof that they are **not** on a blacklist — without revealing their identity.
+In our implementation we use a simulation of a ICAO blacklist.
+
+Full demo: https://youtu.be/qbhjwHSVR7M
 
 ## 🚀 Tech Stack
 
